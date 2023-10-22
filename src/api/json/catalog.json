@@ -1636,6 +1636,22 @@
       "url": "https://json.schemastore.org/esquio.json"
     },
     {
+      "name": "step-yaml-plan-schema-os-1.0.json",
+      "description": "Step YAML plan (OS)",
+      "fileMatch": [
+        ".plan.yml", ".plan.yaml"
+      ],
+      "url": "https://json.schemastore.org/step-yaml-plan-schema-os-1.0.json"
+    },
+    {
+      "name": "step-yaml-plan-schema-ee-1.0.json",
+      "description": "Step YAML plan (EE)",
+      "fileMatch": [
+        ".plan-ee.yml", ".plan-ee.yaml"
+      ],
+      "url": "https://json.schemastore.org/step-yaml-plan-schema-ee-1.0.json"
+    },
+    {
       "name": "epr-manifest.json",
       "description": "Entry Point Regulation manifest file",
       "fileMatch": ["epr-manifest.json"],
